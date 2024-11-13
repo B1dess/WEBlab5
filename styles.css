@@ -41,7 +41,6 @@ ul, ol{
     flex: 2.5 0 0;
     font-size: 26px;
     background-color: bisque;
-    overflow: auto;
 }
 .div2{
     flex: 2.5 0 0;
